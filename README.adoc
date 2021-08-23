@@ -1,2 +1,4 @@
 Test
 Test
+
+Bitte das Projekt anders benennen, wie bspw. `aero.minova.container.apps` oder `aero.minova.nas.apps`.
